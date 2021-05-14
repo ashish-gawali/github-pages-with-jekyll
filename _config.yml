@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 #github_username:  ashish-gawali # DO NOT include the @ character, or else the build will fail!
 #linkedin_username: ashish-anil-gawali
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+#show_excerpts: true # set to false to remove excerpts on the homepage
 
 #theme: minima
 markdown: kramdown
