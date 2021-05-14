@@ -15,5 +15,6 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 #theme: minima
 markdown: kramdown
 
+permalink: /blog/:year/:month/:day/:title
 plugins:
  - jekyll-seo-tag
