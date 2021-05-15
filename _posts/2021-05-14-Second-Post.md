@@ -10,7 +10,9 @@ Listing a few things I would like to achieve:
 2. Upload resume.
 3. Add work experience.
 
-![image1]({{page.image}} = 100x50)
+![image1]({{page.image}})
+
+<img src="./github-pages-with-jekyll/assets/images/louis-reed-wSTCaQpiLtc-unsplash.jpg" width="200" height="100"/>
 
 {{page.image}}
 
