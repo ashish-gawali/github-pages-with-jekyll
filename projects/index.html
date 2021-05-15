@@ -7,7 +7,9 @@ title: "Ashish Gawali's Projects"
   <ul class="posts">
     {% for post in site.posts %}
     <li>
-      <span>{{post.date | date_to_string}}</span>  » <a href="/github-pages-with-jekyll/{{post.url}}" title="{{post.title}}">{{post.title}}</a> 
+      <span>{{post.date | date_to_string}}</span>  » <a href="/github-pages-with-jekyll/{{post.url}}" title="{{post.title}}">{{post.title}} adding SOMETHING</a> 
+      {{post.description}}
+
     </li>
     {% endfor %}
   </ul>
