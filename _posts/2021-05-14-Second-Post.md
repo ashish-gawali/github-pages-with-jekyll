@@ -10,7 +10,7 @@ Listing a few things I would like to achieve:
 2. Upload resume.
 3. Add work experience.
 
-![image1]({{page.image}})
+![image1]({{page.image}} = 100x50)
 
 {{page.image}}
 
