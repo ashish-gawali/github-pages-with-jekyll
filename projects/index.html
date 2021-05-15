@@ -15,7 +15,10 @@ title: "Ashish Gawali's Projects"
       </dd>
       
       {% if forloop.last == false %}
-        <hr align="left" width="50%">
+        <hr align="left" width="70%">
+      {% endif %}
+      {% if forloop.last == true %}
+        <hr align="left" width="0%">
       {% endif %}
       
     {% endfor %}
