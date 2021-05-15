@@ -43,3 +43,7 @@ ul.posts {
 ul.posts li {
   list-style: none;
 }
+
+navTop {
+  border-top: 1px solid #d5d5d5;
+}
