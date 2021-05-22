@@ -71,3 +71,9 @@ ul.posts, dl.posts {
   border-bottom: 1px solid #d5d5d5;
   min-width: 500px;
 }
+
+.workExDivLeft {
+  padding-right: 35%;
+  border-bottom: 1px solid #d5d5d5;
+  min-width: 500px;
+}
