@@ -47,3 +47,12 @@ ul.posts, dl.posts {
 .navTop1 {
   border-bottom: 1px solid #d5d5d5;
 }
+
+.workExHeader {
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+.workExPara {
+  font-size: 1.25em;
+  line-height: 1.4em;
+}
