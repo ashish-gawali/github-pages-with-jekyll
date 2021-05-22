@@ -58,9 +58,14 @@ ul.posts, dl.posts {
   line-height: 1.4em;
   min-width: 500px;
   width: 65%;
+  text-align: justify;
 }
 
-.workExDiv{
+.workExDiv .workExDivRight {
   border-bottom: 1px solid #d5d5d5;
   min-width: 500px;
+}
+
+.workExDivRight {
+  margin-left: 35%;
 }
