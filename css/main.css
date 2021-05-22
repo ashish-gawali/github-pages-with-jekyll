@@ -46,6 +46,7 @@ ul.posts, dl.posts {
 
 .navTop1 {
   border-bottom: 1px solid #d5d5d5;
+  min-width: 500px;
 }
 
 .workExHeader {
@@ -55,4 +56,11 @@ ul.posts, dl.posts {
 .workExPara {
   font-size: 1.25em;
   line-height: 1.4em;
+  min-width: 500px;
+  width: 65%;
+}
+
+.workExDiv{
+  border-bottom: 1px solid #d5d5d5;
+  min-width: 500px;
 }
