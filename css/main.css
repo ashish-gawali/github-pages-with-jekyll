@@ -59,6 +59,7 @@ ul.posts, dl.posts {
   min-width: 500px;
   width: 65%;
   text-align: justify;
+  padding-right: 2%;
 }
 
 .workExDiv {
@@ -67,7 +68,7 @@ ul.posts, dl.posts {
 }
 
 .workExDivRight {
-  padding-left: 35%;
+  
   border-bottom: 1px solid #d5d5d5;
   min-width: 500px;
 }
