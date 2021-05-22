@@ -76,11 +76,19 @@ ul.posts, dl.posts {
   min-width: 500px;
 }
 
-.imgLeft {
-  float: left;
+.imageContainer {
+  height: 350px;
+  position: relative;
   width: 33%;
-  padding: 1%;
-  padding-top: 37%;
+  min-width: 175px;
+  float: left;
+}
+
+.imgLeft {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
 }
 
 .imgRight {
