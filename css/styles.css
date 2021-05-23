@@ -4238,3 +4238,10 @@ img.u-pull-left {
         right : 6vw;
     }
 }
+
+.imgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
